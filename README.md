@@ -9,5 +9,5 @@ This a Simple Calculator Website repository! This repository contains a straight
 - Division
 
 # Preview
- ![Screenshot from 2023-11-01 19-52-48](https://github.com/Kavinkumar442005/simple-calculator-website/assets/149078693/32da1c6b-d08c-47af-be3e-8428d138d39f)
+![Screenshot from 2023-11-02 20-43-32](https://github.com/Kavinkumar442005/simple-calculator-website/assets/149078693/6ca38dfa-a7bd-4003-9d4a-50b6b63de93a)
 
